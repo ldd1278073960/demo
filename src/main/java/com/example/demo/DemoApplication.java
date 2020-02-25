@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
-        String str = ",4,5,4,6";
+        String str = ",1,5,4,6";
 
 
 
