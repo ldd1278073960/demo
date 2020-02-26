@@ -9,7 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         String str = ",1,5,4,6";
 
-
+        String ss = "xxx";
 
         String[] split = str.split(str);
         for (String s : split) {
